@@ -1,5 +1,3 @@
-// if you are given an amount of rupees as an input then calculate how much amount of rs 500 rs 200 rs 100 rs 50  rs 20 rs 10 rupee 1 coin rupee 5 coins rupee 2 coinis needed 
-
 #include <iostream>
 using namespace std;
 
